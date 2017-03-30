@@ -1,4 +1,4 @@
-#import modules to help us achieve our pgram aims
+#import modules to help us achieve our program aims
 import time 
 import webbrowser
 
